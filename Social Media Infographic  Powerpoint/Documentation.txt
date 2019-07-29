@@ -1,0 +1,10 @@
+Font
+Poppins: https://www.fontsquirrel.com/fonts/poppins
+Open Sans: https://www.fontsquirrel.com/fonts/open-sans
+
+How to Use it:
+just copy it to your current presentation, if your presentation using a theme colors, the diagram will adjust it.
+try our template powerpoint to combine it: https://elements.envato.com/user/SlideFactory
+
+More Awesome Powerpoint Template:
+https://graphicriver.net/item/powerpoint-template-professional-pack/18843606

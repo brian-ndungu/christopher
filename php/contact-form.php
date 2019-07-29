@@ -5,9 +5,9 @@
 	$subject = trim($_POST['subject']);
 	$message = trim($_POST['message']);
 	
-	$emailTo = 'example@mail.com'; //Put your own email address here
+	$emailTo = 'magnolia@christopher.africa'; //Put your own email address here
 	if (empty($subject)) {
-	    $subject = 'Message from your website.';
+	    $subject = 'Message from the christopher presentation.';
 	}
 	$body = "Name: $name \n\nEmail: $email \n\nMessage:\n$message";
 	$headers = 'From: '.$email."\r\n" .
